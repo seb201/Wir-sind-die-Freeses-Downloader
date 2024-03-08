@@ -14,4 +14,6 @@ Programm ausführen:
 
 Leider sind nur die Folgen des letzten Jahres vom NDR Server abrufbar.
 
+Ein Script für "Frühstück bei Stefanie" gibt es hier: https://github.com/seb201/Fruehstueck-bei-Stefanie-Downloader/tree/main
+
 Das Script ist angepasst an die Struktur des NDRs, evtl. funktioniert das Script auch mit anderen Podcasts.
