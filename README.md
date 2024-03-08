@@ -1,5 +1,5 @@
 # Wir-sind-die-Freeses-Downloader
-Dieses Shell Script lädt alle verfügbaren Folgen der Radiosendung "Wir sind die Freeses" herunter
+Dieses Shell Script lädt alle verfügbaren Folgen der Radiosendung "Wir sind die Freeses" vom NDR Server herunter
 
 Dieses Script sollte auf allen unixoiden Betriebssystemen laufen.
 Zum Ändern der ID3 Tags muss das Kommandozeilenprogramm eyeD3 installiert sein.
